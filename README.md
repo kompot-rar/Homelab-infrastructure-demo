@@ -1,5 +1,5 @@
 # Homelab-infrastructure-demo
 
-![Diagram Architektury](/diagramarchitekry.png)
+![Diagram Architektury](/diagram_architekry.png)
 
 My devops learning playground
